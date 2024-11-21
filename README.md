@@ -57,4 +57,5 @@ Binary Blitz is a fun and educational console-based quiz game where players can 
 
 - This project is licensed under the MIT License.
 
-# Have fun converting numbers and learning with Binary Blitz! 🎉
+
+### Have fun converting numbers and learning with Binary Blitz! 🎉
