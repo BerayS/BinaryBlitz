@@ -33,3 +33,28 @@ Binary Blitz is a fun and educational console-based quiz game where players can 
    ```bash
    git clone https://github.com/your-username/binary-blitz.git
    cd binary-blitz
+
+2. Compile the code:
+   ```bash
+   g++ -o BinaryBlitz binary_blitz.cpp
+
+3. Run the program:
+   ```bash
+   ./BinaryBlitz
+
+## Future Enhancements
+
+- **Add support for hexadecimal to binary/decimal conversions.
+- **Introduce difficulty levels (e.g., larger numbers or time-limited answers).
+- **Enhance the UI with a more interactive design.
+
+## Contributing
+
+- Contributions are welcome! Feel free to fork this repository, make improvements, and open a pull request.
+
+
+## License
+
+- This project is licensed under the MIT License.
+
+# Have fun converting numbers and learning with Binary Blitz! 🎉
